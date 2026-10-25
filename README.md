@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Audio Processing Studio for Windows</strong></p>
 
-<p align="center">Shape, repair, master and deliver your sound in one signal chain.</p>
+<p align="center">Shape, repair, master and deliver your sound in one signal chain</p>
 
 <p align="center">
   <a href="https://github.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio/releases/latest"><strong>Download</strong></a> ·
