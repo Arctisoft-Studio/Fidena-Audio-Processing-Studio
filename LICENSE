@@ -1,4 +1,4 @@
-WaveShaper - Audio Processing Studio
+Fidena - Audio Processing Studio
 End User License Agreement (EULA)
 
 Copyright (c) 2025-2026 Arctisoft Studio / Bernd Julian Hagen
@@ -14,7 +14,7 @@ apply.
 1. LICENSE GRANT
 
 Arctisoft Studio grants you a non-exclusive, non-transferable,
-royalty-free license to install and use WaveShaper - Audio Processing
+royalty-free license to install and use Fidena - Audio Processing
 Studio ("Software") on any Windows computer you own or control, for
 personal and commercial audio processing.
 
@@ -24,7 +24,7 @@ You may:
 
   - Install the Software on an unlimited number of your own computers.
   - Use the Software for personal and commercial audio processing,
-    including the WaveShaper VST 3 plug-ins in other applications.
+    including the Fidena VST 3 plug-ins in other applications.
   - Make backup copies of the installer for personal archival purposes.
   - Distribute the original, unmodified installer for promotional
     purposes.
@@ -46,11 +46,11 @@ You may not:
 
 4. EDITIONS AND LICENSE KEY
 
-WaveShaper can be installed and used free of charge. Every processor can
+Fidena can be installed and used free of charge. Every processor can
 be heard and adjusted in both editions. The Premium edition renders every
 processor and adds high-resolution and loudness-target renders, batch
 processing, job files and watch folders, render sets, album rendering,
-rendering from the command line, equalizer preset sync and the WaveShaper
+rendering from the command line, equalizer preset sync and the Fidena
 VST 3 plug-ins, as the edition table in Help > License shows. A 14-day
 trial is available once per computer.
 
@@ -91,7 +91,7 @@ Account and license (when you sign in through Arctisoft Studio Hub):
 
 Settings sync (optional, off until you turn it on):
 
-When you turn on sync in Settings while signed in, WaveShaper's settings,
+When you turn on sync in Settings while signed in, Fidena's settings,
 and in Premium your saved equalizer presets, are stored with your account
 so they follow it to your other computers (Art. 6(1)(b) GDPR). The chain,
 plug-ins, devices, file paths and the library always stay on your
@@ -100,7 +100,7 @@ computer.
 Connected features (only when you use them):
 
   - None besides the account, license and update services above:
-    WaveShaper sends no audio and no file information anywhere.
+    Fidena sends no audio and no file information anywhere.
 
 Software updates:
 
@@ -121,7 +121,7 @@ rights not expressly granted herein are reserved.
 
 7. THIRD-PARTY COMPONENTS
 
-WaveShaper includes open-source components under their own licenses:
+Fidena includes open-source components under their own licenses:
 NAudio, NAudio.Lame, LAME, libmpg123, TagLib#, CUETools FLAKE,
 Newtonsoft.Json, NVorbis, Concentus (Opus), libogg and libvorbis, R128Net
 and libebur128, Lucide, and, in the plug-ins, TerraFX.Interop.Windows and
@@ -137,7 +137,7 @@ components.
 
 LAME, libmpg123, TagLib# and CUETools FLAKE are licensed under the GNU
 Lesser General Public License 2.1. They are separate libraries that
-WaveShaper loads at run time; you may replace them with modified versions,
+Fidena loads at run time; you may replace them with modified versions,
 and their source code is available as THIRD-PARTY-NOTICES.txt describes.
 
 8. PAYMENT AND REFUNDS
@@ -157,15 +157,15 @@ store any payment card information.
 
 9. YOUR RESPONSIBILITIES
 
-When using WaveShaper, you are responsible for:
+When using Fidena, you are responsible for:
 
   - Ensuring you have the legal right to process the audio content.
   - Complying with all applicable copyright and intellectual property
     laws.
   - Complying with the license terms of third-party plug-ins you load into
-    WaveShaper.
+    Fidena.
 
-WaveShaper is a technical tool for audio processing. It does not filter,
+Fidena is a technical tool for audio processing. It does not filter,
 restrict, or judge content.
 
 10. DISCLAIMER OF WARRANTIES
