@@ -18,16 +18,16 @@
 
 <br>
 
-[![Fidena with the signal chain, parametric equaliser, analyser and loudness meters](images/fidena-editor.png)](https://arctisoft-studio.com/software/fidena/)
+[![Fidena with the signal chain, parametric equalizer, analyser and loudness meters](images/fidena-editor.png)](https://arctisoft-studio.com/software/fidena/)
 
-<p align="center"><sub>The Process workspace: signal chain, parametric equaliser with pre/post analyser, and input, output and loudness metering. More views in the <a href="https://arctisoft-studio.com/software/fidena/">product gallery</a>.</sub></p>
+<p align="center"><sub>The Process workspace: signal chain, parametric equalizer with pre/post analyser, and input, output and loudness metering. More views in the <a href="https://arctisoft-studio.com/software/fidena/">product gallery</a>.</sub></p>
 
-Fidena is the audio processing studio of Arctisoft Studio. Build a chain of equalisation, dynamics, repair, mastering and effects for your material, compare alternatives while you listen, check the result against a delivery target and render it — one file, a whole album, or unattended batches. Its processors are also available as VST3 plug-ins in your DAW.
+Fidena is the audio processing studio of Arctisoft Studio. Build a chain of equalization, dynamics, repair, mastering and effects for your material, compare alternatives while you listen, check the result against a delivery target and render it — one file, a whole album, or unattended batches. Its processors are also available as VST3 plug-ins in your DAW.
 
 ## Capabilities
 
 - **An editable signal chain.** Add, reorder, bypass and repeat processor instances. Compare four complete chains as snapshots A–D, keep module and chain presets, and save source, chain, edits and markers as a session. Full undo history and automatic recovery copies protect the work in progress.
-- **Equalisation.** Parametric, dynamic and graphic EQ with linear-phase options, Match EQ against a reference, resonance suppression and adaptive EQ, with a pre/post analyser.
+- **Equalization.** Parametric, dynamic and graphic EQ with linear-phase options, Match EQ against a reference, resonance suppression and adaptive EQ, with a pre/post analyser.
 - **Dynamics and mastering.** Compressor, multiband dynamics, gate and expander, de-esser, transient shaping, true-peak limiter with loudness targets, stereo imaging, mono-maker, rebalance and a mastering assistant.
 - **Repair.** De-clip, de-click, de-hum, de-noise, de-reverb, de-plosive and breath control, a repair assistant, and spectral repair of selected regions in the spectrogram.
 - **Effects.** Algorithmic and convolution reverb, delay, saturation and tape, modulation, creative effects, and pitch and time with formant control.
@@ -45,20 +45,20 @@ Every processor can be heard and adjusted in both editions. The editions differ 
 
 | | Basic · free | Premium |
 | --- | :---: | :---: |
-| Equaliser, compressor, gate, reverb, delay, saturation, tremolo, vibrato, pan, reverse, bitcrush | Render | Render |
+| Equalizer, compressor, gate, reverb, delay, saturation, tremolo, vibrato, pan, reverse, bitcrush | Render | Render |
 | Repair, advanced EQ, multiband, mastering, stereo, pitch/time, chorus and other advanced processors | Hear and adjust | Render |
 | Hosted VST3 effects | Hear and adjust | Render |
 | Limiter | Standard settings | Your mastering settings |
 | WAV, FLAC, MP3, Ogg Vorbis and AAC export | ✓ | ✓ |
 | Sample rate and word length | Up to 48 kHz, 24-bit | Up to 192 kHz, 32-bit float |
-| Loudness normalisation | Peak | Peak and LUFS targets |
+| Loudness normalization | Peak | Peak and LUFS targets |
 | Batch rendering, job files and watch folders | One file at a time | ✓ |
 | Render sets and album rendering | — | ✓ |
-| Command line | Analyse | Analyse and render |
+| Command line | Analyze | Analyze and render |
 | Measurement, delivery targets, codec preview and reports | ✓ | ✓ |
 | Fidena VST3 plug-ins for your DAW | — | ✓ |
 | Settings follow your account | ✓ | ✓ |
-| Equaliser presets follow your account | — | ✓ |
+| Equalizer presets follow your account | — | ✓ |
 
 Premium is a one-time purchase for one person, covering the licensed major version and all updates within it, on up to three computers at a time; a licensed computer keeps working offline for 30 days. A 14-day trial is available once per account and computer. See [current pricing](https://arctisoft-studio.com/pricing/); **Help > License** shows the state of this computer.
 
@@ -97,4 +97,4 @@ Fidena is proprietary commercial software. This repository holds its public docu
 
 ---
 
-<p align="center"><sub>© 2025–2026 Arctisoft Studio · Bernd Julian Hagen · Austria. All rights reserved.</sub></p>
+<p align="center"><sub>© 2025–2026 Arctisoft Studio. All rights reserved.</sub></p>
